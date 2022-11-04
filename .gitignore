@@ -1,0 +1,6 @@
+app/out/
+app/bin/
+
+.gradle
+.idea
+.vscode

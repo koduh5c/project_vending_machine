@@ -1,0 +1,90 @@
+{
+    "Drinks": [
+        {
+            "name": "Mineral Water",
+            "code": 1001,
+            "price": 5
+        },
+        {
+            "name": "Sprite",
+            "code": 1002,
+            "price": 5
+        },
+        {
+            "name": "Coca cola",
+            "code": 1003,
+            "price": 5
+        },
+        {
+            "name": "Pepsi",
+            "code": 1004,
+            "price": 5
+        },
+        {
+            "name": "Juice",
+            "code": 1005,
+            "price": 5
+        }
+    ],
+    "Chocolates": [
+        {
+            "name": "Mars",
+            "code": 2001,
+            "price": 5
+        },
+        {
+            "name": "M&M",
+            "code": 2002,
+            "price": 5
+        },
+        {
+            "name": "Bounty",
+            "code": 2003,
+            "price": 5
+        },
+        {
+            "name": "Snickers",
+            "code": 2004,
+            "price": 5
+        }
+    ],
+    "Chips": [
+        {
+            "name": "Smiths",
+            "code": 3001,
+            "price": 5
+        },
+        {
+            "name": "Pringles",
+            "code": 3002,
+            "price": 5
+        },
+        {
+            "name": "Kettle",
+            "code": 3003,
+            "price": 5
+        },
+        {
+            "name": "Thins",
+            "code": 3004,
+            "price": 5
+        }
+    ],
+    "Candies": [
+        {
+            "name": "Mentos",
+            "code": 4001,
+            "price": 5
+        },
+        {
+            "name": "Sour Patch",
+            "code": 4002,
+            "price": 5
+        },
+        {
+            "name": "Skittles",
+            "code": 4003,
+            "price": 5
+        }
+    ]
+}

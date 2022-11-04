@@ -1,0 +1,32 @@
+[
+  {
+    "type": "customer",
+    "username": "charles123",
+    "password": "abc40691"
+  },
+  {
+    "type": "customer",
+    "username": "sergio123",
+    "password": "abc42689"
+  },
+  {
+    "type": "owner",
+    "username": "ruth123",
+    "password": "abc55134"
+  },
+  {
+    "type": "cashier",
+    "username": "vincent123",
+    "password": "abc59141"
+  },
+  {
+    "type": "seller",
+    "username": "kasey123",
+    "password": "abc60146"
+  },
+  {
+    "type": "seller",
+    "username": "donald123",
+    "password": "abc23858"
+  }
+]
