@@ -1,1 +1,1 @@
-# RE_08_Thu_16_Anthony_Group-1_A2
+# An interactive vending machine application project running JavaFX for an agile software development unit using the SCRUM method.
