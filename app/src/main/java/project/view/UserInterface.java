@@ -36,9 +36,6 @@ public class UserInterface extends BorderPane {
         updateLeftView(leftView);
         updateCentreView(centreView);
         updateRightView(rightView);
-
-        // 120 seconds until close if idle
-        IdleObserver.start(this, 20);
     }
 
     public Scene scene() {

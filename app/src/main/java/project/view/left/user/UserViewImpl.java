@@ -14,6 +14,7 @@ import project.model.product.ProductContainer;
 import project.model.product.ProductManager;
 import project.model.user.UserType;
 import project.model.user.container.Transaction;
+import project.view.IdleObserver;
 import project.view.UserInterface;
 import project.view.left.SaveCardView;
 import project.view.left.transaction.PaymentMethodView;
@@ -29,6 +30,9 @@ abstract class UserViewImpl extends LeftViewTemplate implements UserView {
         setAllButtonWidth(200);
         buildLogoutButton();
         displayStartupTransactionOutput();
+
+        // 120 seconds until close if idle
+        IdleObserver.start(userInterface, 120);
     }
 
     @Override
